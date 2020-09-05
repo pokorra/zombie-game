@@ -5,4 +5,4 @@ Zombie - killing game
 
 game created  using html, css and js
 
-play:
+play here: https://pokorra.github.io/zombie-game/
